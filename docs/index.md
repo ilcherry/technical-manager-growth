@@ -7,5 +7,5 @@ hero:
   actions:
     - theme: brand
       text: 点击阅读
-      link: /markdown-examples
+      link: /我是什么样的人
 ---
