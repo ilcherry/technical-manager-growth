@@ -1,0 +1,1 @@
+import{_ as l,c as a,o,ae as t}from"./chunks/framework.Dh1jimFm.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"要懂一些项目管理的知识.md","filePath":"要懂一些项目管理的知识.md"}'),p={name:"要懂一些项目管理的知识.md"};function i(r,e,c,u,n,_){return o(),a("div",null,e[0]||(e[0]=[t("",35)]))}const s=l(p,[["render",i]]);export{h as __pageData,s as default};
