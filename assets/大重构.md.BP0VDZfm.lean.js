@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,ae as p}from"./chunks/framework.Dh1jimFm.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"大重构.md","filePath":"大重构.md"}'),r={name:"大重构.md"};function l(c,a,i,h,n,s){return t(),o("div",null,a[0]||(a[0]=[p("",33)]))}const b=e(r,[["render",l]]);export{u as __pageData,b as default};
