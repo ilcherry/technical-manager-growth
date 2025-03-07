@@ -7,10 +7,16 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    // nav: [
-    //   { text: "Home", link: "/" },
-    //   { text: "我是什么样的人", link: "/我是什么样的人" },
-    // ],
+    nav: [
+      {
+        text: "本文原创请见",
+        link: "https://juejin.cn/column/7196570893153370170",
+      },
+    ],
+
+    search: {
+      provider: "local",
+    },
 
     sidebar: [
       {
