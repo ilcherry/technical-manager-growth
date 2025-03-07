@@ -90,7 +90,10 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/ilcherry/technical-manager-growth" },
+      {
+        icon: "github",
+        link: "https://github.com/ilcherry/technical-manager-growth",
+      },
     ],
   },
 });
