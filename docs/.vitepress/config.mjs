@@ -77,6 +77,14 @@ export default defineConfig({
             text: "技术目标",
             link: "/技术目标",
           },
+          {
+            text: "管理风格",
+            link: "/管理风格",
+          },
+          {
+            text: "搞清楚团队的基本职能",
+            link: "/搞清楚团队的基本职能",
+          },
         ],
       },
     ],
