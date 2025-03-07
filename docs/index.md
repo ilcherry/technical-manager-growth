@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: home
+layout: redirect
+redirect: /我是什么样的人
 
 hero:
   name: "技术经理成长之路"
