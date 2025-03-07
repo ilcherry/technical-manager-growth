@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as p,ag as r}from"./chunks/framework.QVwUS1Pj.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"领导力.md","filePath":"领导力.md"}'),o={name:"领导力.md"};function l(i,a,n,s,d,_){return p(),t("div",null,a[0]||(a[0]=[r("",21)]))}const P=e(o,[["render",l]]);export{h as __pageData,P as default};

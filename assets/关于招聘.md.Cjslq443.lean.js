@@ -1,1 +1,0 @@
-import{_ as e,c as l,o as i,ae as r}from"./chunks/framework.C-ckEMbm.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"关于招聘.md","filePath":"关于招聘.md"}'),t={name:"关于招聘.md"};function o(n,a,p,h,d,s){return i(),l("div",null,a[0]||(a[0]=[r("",18)]))}const _=e(t,[["render",o]]);export{u as __pageData,_ as default};

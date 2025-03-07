@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as p,ae as o}from"./chunks/framework.C-ckEMbm.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"简单聊聊产品规划的流程.md","filePath":"简单聊聊产品规划的流程.md"}'),r={name:"简单聊聊产品规划的流程.md"};function _(l,a,n,c,i,s){return p(),t("div",null,a[0]||(a[0]=[o("",22)]))}const u=e(r,[["render",_]]);export{h as __pageData,u as default};
