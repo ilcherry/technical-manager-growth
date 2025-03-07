@@ -61,6 +61,22 @@ export default defineConfig({
             text: "领导力",
             link: "/领导力",
           },
+          {
+            text: "关于团队",
+            link: "/关于团队",
+          },
+          {
+            text: "文档",
+            link: "/文档",
+          },
+          {
+            text: "关于招聘",
+            link: "/关于招聘",
+          },
+          {
+            text: "技术目标",
+            link: "/技术目标",
+          },
         ],
       },
     ],
