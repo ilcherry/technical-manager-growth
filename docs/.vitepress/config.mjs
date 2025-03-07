@@ -49,6 +49,18 @@ export default defineConfig({
             text: "聊聊核心骨干",
             link: "/聊聊核心骨干",
           },
+          {
+            text: "激励",
+            link: "/激励",
+          },
+          {
+            text: "关于晋升",
+            link: "/关于晋升",
+          },
+          {
+            text: "领导力",
+            link: "/领导力",
+          },
         ],
       },
     ],
