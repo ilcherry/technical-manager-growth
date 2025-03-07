@@ -25,12 +25,28 @@ export default defineConfig({
             text: "对自己开发的模块要认真负责",
             link: "/对自己开发的模块要认真负责",
           },
+          {
+            text: "功能模块提测前要做的几件事",
+            link: "/功能模块提测前要做的几件事",
+          },
+          {
+            text: "产品研发要配合好",
+            link: "/产品研发要配合好",
+          },
+          {
+            text: "简单聊聊产品规划的流程",
+            link: "/简单聊聊产品规划的流程",
+          },
+          {
+            text: "聊聊加班",
+            link: "/聊聊加班",
+          },
         ],
       },
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/ilcherry/technical-manager-growth" },
     ],
   },
 });
