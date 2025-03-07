@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "",
+        text: "目录",
         items: [
           { text: "我是什么样的人", link: "/我是什么样的人" },
           { text: "发现团队的瓶颈", link: "/发现团队的瓶颈" },
