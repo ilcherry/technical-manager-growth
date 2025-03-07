@@ -41,6 +41,14 @@ export default defineConfig({
             text: "聊聊加班",
             link: "/聊聊加班",
           },
+          {
+            text: "聊聊跳槽",
+            link: "/聊聊跳槽",
+          },
+          {
+            text: "聊聊核心骨干",
+            link: "/聊聊核心骨干",
+          },
         ],
       },
     ],
