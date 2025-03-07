@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as e,ae as t}from"./chunks/framework.C-ckEMbm.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"管理风格.md","filePath":"管理风格.md"}'),o={name:"管理风格.md"};function r(p,l,c,n,u,_){return e(),a("div",null,l[0]||(l[0]=[t("",17)]))}const h=i(o,[["render",r]]);export{d as __pageData,h as default};
