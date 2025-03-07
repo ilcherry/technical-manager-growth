@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as e,ae as t}from"./chunks/framework.C-ckEMbm.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"聊聊加班.md","filePath":"聊聊加班.md"}'),r={name:"聊聊加班.md"};function o(p,l,n,s,_,c){return e(),a("div",null,l[0]||(l[0]=[t("",18)]))}const u=i(r,[["render",o]]);export{h as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,ae as p}from"./chunks/framework.C-ckEMbm.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"产品研发要配合好.md","filePath":"产品研发要配合好.md"}'),l={name:"产品研发要配合好.md"};function r(i,a,c,n,h,d){return t(),o("div",null,a[0]||(a[0]=[p("",31)]))}const _=e(l,[["render",r]]);export{u as __pageData,_ as default};
