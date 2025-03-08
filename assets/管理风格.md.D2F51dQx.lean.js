@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as i,ag as a}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"管理风格.md","filePath":"管理风格.md"}'),r={name:"管理风格.md"};function e(n,l,s,p,c,u){return i(),o("div",null,l[0]||(l[0]=[a("",18)]))}const g=t(r,[["render",e]]);export{d as __pageData,g as default};
