@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as a,ag as l}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"技术目标.md","filePath":"技术目标.md"}'),n={name:"技术目标.md"};function e(s,t,i,p,g,_){return a(),o("div",null,t[0]||(t[0]=[l("",20)]))}const h=r(n,[["render",e]]);export{d as __pageData,h as default};
