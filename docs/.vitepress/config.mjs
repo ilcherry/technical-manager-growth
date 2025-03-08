@@ -14,6 +14,15 @@ export default defineConfig({
       },
     ],
 
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+
+    outline: {
+      label: "章节目录",
+    },
+
     search: {
       provider: "local",
     },
