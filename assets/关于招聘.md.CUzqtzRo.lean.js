@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,ag as s}from"./chunks/framework.QVwUS1Pj.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"关于招聘.md","filePath":"关于招聘.md"}'),a={name:"关于招聘.md"};function l(e,r,i,g,p,h){return n(),o("div",null,r[0]||(r[0]=[s("",18)]))}const u=t(a,[["render",l]]);export{c as __pageData,u as default};
