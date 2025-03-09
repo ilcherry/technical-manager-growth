@@ -1,1 +1,0 @@
-import{_ as a,c as e,o,ag as r}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"简单聊聊产品规划的流程.md","filePath":"简单聊聊产品规划的流程.md"}'),l={name:"简单聊聊产品规划的流程.md"};function i(n,t,p,s,_,u){return o(),e("div",null,t[0]||(t[0]=[r("",24)]))}const h=a(l,[["render",i]]);export{d as __pageData,h as default};
