@@ -1,0 +1,1 @@
+import{_ as t,c as i,o,ag as a}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"聊聊加班.md","filePath":"聊聊加班.md"}'),e={name:"聊聊加班.md"};function r(n,l,s,p,c,u){return o(),i("div",null,l[0]||(l[0]=[a("",18)]))}const h=t(e,[["render",r]]);export{d as __pageData,h as default};
