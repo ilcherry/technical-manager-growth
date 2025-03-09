@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as a,ag as n}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"关于团队.md","filePath":"关于团队.md"}'),e={name:"关于团队.md"};function s(l,t,p,i,g,_){return a(),o("div",null,t[0]||(t[0]=[n("",20)]))}const h=r(e,[["render",s]]);export{d as __pageData,h as default};
