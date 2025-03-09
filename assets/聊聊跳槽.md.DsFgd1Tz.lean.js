@@ -1,0 +1,1 @@
+import{_ as o,c as r,o as n,ag as s}from"./chunks/framework.QVwUS1Pj.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"聊聊跳槽.md","filePath":"聊聊跳槽.md"}'),g={name:"聊聊跳槽.md"};function a(l,t,e,p,i,c){return n(),r("div",null,t[0]||(t[0]=[s("",19)]))}const d=o(g,[["render",a]]);export{_ as __pageData,d as default};
