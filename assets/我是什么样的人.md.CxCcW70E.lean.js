@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,ag as p}from"./chunks/framework.QVwUS1Pj.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"我是什么样的人.md","filePath":"我是什么样的人.md"}'),r={name:"我是什么样的人.md"};function n(s,o,c,l,_,i){return a(),e("div",null,o[0]||(o[0]=[p("",20)]))}const h=t(r,[["render",n]]);export{u as __pageData,h as default};
