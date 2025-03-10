@@ -1,0 +1,1 @@
+import{_ as o,c,o as a,ag as d}from"./chunks/framework.QVwUS1Pj.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"发现团队的瓶颈.md","filePath":"发现团队的瓶颈.md"}'),t={name:"发现团队的瓶颈.md"};function r(p,e,n,l,_,P){return a(),c("div",null,e[0]||(e[0]=[d("",15)]))}const h=o(t,[["render",r]]);export{i as __pageData,h as default};
