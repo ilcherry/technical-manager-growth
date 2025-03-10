@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as n,ag as s}from"./chunks/framework.QVwUS1Pj.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"聊聊核心骨干.md","filePath":"聊聊核心骨干.md"}'),a={name:"聊聊核心骨干.md"};function e(l,o,g,p,i,c){return n(),r("div",null,o[0]||(o[0]=[s("",30)]))}const d=t(a,[["render",e]]);export{h as __pageData,d as default};
