@@ -1,0 +1,1 @@
+import{_ as a,c as l,o,ag as i}from"./chunks/framework.QVwUS1Pj.js";const s=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"对自己开发的模块要认真负责.md","filePath":"对自己开发的模块要认真负责.md"}'),t={name:"对自己开发的模块要认真负责.md"};function r(c,e,d,p,n,h){return o(),l("div",null,e[0]||(e[0]=[i("",29)]))}const _=a(t,[["render",r]]);export{s as __pageData,_ as default};
