@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,ag as t}from"./chunks/framework.QVwUS1Pj.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"要懂一些项目管理的知识.md","filePath":"要懂一些项目管理的知识.md"}'),p={name:"要懂一些项目管理的知识.md"};function i(r,l,c,u,n,_){return o(),a("div",null,l[0]||(l[0]=[t("",35)]))}const s=e(p,[["render",i]]);export{h as __pageData,s as default};
