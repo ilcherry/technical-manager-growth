@@ -1,0 +1,1 @@
+import{_ as o,c as r,o as a,ag as e}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"核心骨干主动离职的影响.md","filePath":"核心骨干主动离职的影响.md"}'),n={name:"核心骨干主动离职的影响.md"};function s(l,t,p,i,_,g){return a(),r("div",null,t[0]||(t[0]=[e("",17)]))}const h=o(n,[["render",s]]);export{d as __pageData,h as default};
