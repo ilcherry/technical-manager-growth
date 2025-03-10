@@ -65,6 +65,10 @@ export default defineConfig({
             link: "/聊聊核心骨干",
           },
           {
+            text: "核心骨干主动离职的影响",
+            link: "/核心骨干主动离职的影响",
+          },
+          {
             text: "激励",
             link: "/激励",
           },
