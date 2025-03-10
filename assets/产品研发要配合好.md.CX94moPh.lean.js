@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as t,ag as p}from"./chunks/framework.QVwUS1Pj.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"产品研发要配合好.md","filePath":"产品研发要配合好.md"}'),c={name:"产品研发要配合好.md"};function l(d,e,r,i,n,h){return t(),a("div",null,e[0]||(e[0]=[p("",31)]))}const _=o(c,[["render",l]]);export{u as __pageData,_ as default};
