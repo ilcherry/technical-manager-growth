@@ -1,0 +1,1 @@
+import{_ as o,c as l,o as e,ag as t}from"./chunks/framework.QVwUS1Pj.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"大重构.md","filePath":"大重构.md"}'),r={name:"大重构.md"};function i(n,a,s,p,c,u){return e(),l("div",null,a[0]||(a[0]=[t("",33)]))}const b=o(r,[["render",i]]);export{d as __pageData,b as default};
